@@ -93,7 +93,7 @@ const Projects = () => {
         </div>
 
         <div className="border border-black-300 bg-black-200 rounded-lg h-96 md:h-full">
-          <div>hello there</div>
+          
           <Canvas>
             
             <ambientLight intensity={Math.PI} />
